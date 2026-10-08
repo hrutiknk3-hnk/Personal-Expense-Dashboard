@@ -1,0 +1,501 @@
+Date,Category,Subcategory,Description,Amount,Payment_Method,Necessity,Location,Mood
+2026-04-01,Bills,Electricity,Mobile recharge,367,Cash,Yes,Mall,Happy
+2026-04-02,Education,Stationery,Printing,192,UPI,Yes,College,Normal
+2026-04-02,Education,Printing,Course material,619,UPI,Yes,Mall,Happy
+2026-04-03,Education,Printing,Printing,388,UPI,No,Mall,Normal
+2026-04-03,Bills,Mobile Recharge,Internet bill,1254,Cash,Yes,Online,Stressed
+2026-04-04,Health,Doctor,Medicine,987,Cash,No,City,Normal
+2026-04-04,Health,Medicine,Health expense,406,UPI,Yes,College,Happy
+2026-04-05,Transport,Auto,Cab ride,253,UPI,No,Home,Normal
+2026-04-05,Food,Lunch,Restaurant meal,395,Cash,No,Home,Happy
+2026-04-06,Education,Stationery,Study material,1127,Cash,Yes,Mall,Excited
+2026-04-07,Bills,Electricity,Mobile recharge,160,Cash,Yes,Online,Stressed
+2026-04-07,Other,Miscellaneous,Miscellaneous expense,1907,Cash,No,Online,Happy
+2026-04-07,Shopping,Clothes,Personal item,1395,UPI,No,College,Stressed
+2026-04-07,Bills,Electricity,Utility payment,855,Cash,Yes,Market,Happy
+2026-04-07,Education,Course,Printing,1421,Card,Yes,Mall,Normal
+2026-04-08,Transport,Cab,Bus journey,317,Cash,Yes,College,Excited
+2026-04-09,Entertainment,Movies,Event,691,UPI,No,Market,Excited
+2026-04-09,Bills,Mobile Recharge,Utility payment,587,Cash,No,Home,Normal
+2026-04-09,Transport,Auto,Daily travel,245,Cash,No,Home,Excited
+2026-04-10,Food,Dinner,College meal,211,Cash,No,City,Excited
+2026-04-10,Entertainment,Gaming,Movie,299,UPI,Yes,Online,Excited
+2026-04-10,Health,Medicine,Health expense,608,Cash,No,Mall,Happy
+2026-04-10,Education,Course,Printing,344,Card,No,College,Excited
+2026-04-10,Entertainment,Gaming,Event,384,Card,No,Online,Happy
+2026-04-11,Entertainment,Gaming,Movie,832,UPI,Yes,City,Happy
+2026-04-11,Bills,Electricity,Internet bill,662,Card,Yes,College,Excited
+2026-04-11,Health,Medicine,Fitness expense,991,UPI,Yes,Market,Stressed
+2026-04-11,Health,Medicine,Health expense,1986,UPI,No,Market,Excited
+2026-04-12,Shopping,Accessories,Personal item,424,UPI,Yes,Mall,Normal
+2026-04-12,Food,Lunch,College meal,281,Cash,No,Home,Normal
+2026-04-13,Bills,Electricity,Mobile recharge,661,Cash,No,Market,Excited
+2026-04-13,Bills,Mobile Recharge,Mobile recharge,1256,UPI,Yes,Market,Normal
+2026-04-13,Entertainment,Gaming,Event,956,UPI,Yes,Mall,Stressed
+2026-04-14,Entertainment,Events,Movie,1105,UPI,Yes,Market,Stressed
+2026-04-14,Entertainment,Events,Game,820,UPI,Yes,Home,Excited
+2026-04-14,Transport,Fuel,Bus journey,276,UPI,No,Market,Stressed
+2026-04-14,Transport,Fuel,Bus journey,449,UPI,No,Market,Excited
+2026-04-15,Transport,Auto,Daily travel,324,UPI,Yes,Online,Happy
+2026-04-15,Shopping,Clothes,Accessories,1843,Cash,Yes,Home,Stressed
+2026-04-15,Food,Dinner,College meal,65,Card,No,Market,Normal
+2026-04-15,Food,Lunch,College meal,295,Cash,No,Market,Happy
+2026-04-16,Transport,Fuel,Auto ride,101,Cash,No,City,Happy
+2026-04-16,Health,Fitness,Health expense,1739,UPI,Yes,Home,Normal
+2026-04-17,Health,Doctor,Health expense,1211,Cash,No,College,Normal
+2026-04-17,Entertainment,Events,Game,125,Card,Yes,City,Stressed
+2026-04-17,Education,Course,Course material,830,Card,No,Online,Excited
+2026-04-17,Entertainment,Gaming,Event,1080,Card,No,Online,Happy
+2026-04-17,Education,Printing,Course material,912,Cash,No,College,Stressed
+2026-04-17,Health,Doctor,Medicine,1281,Card,Yes,Home,Normal
+2026-04-18,Other,Gift,Miscellaneous expense,887,UPI,Yes,City,Excited
+2026-04-18,Bills,Electricity,Internet bill,1458,UPI,No,Market,Stressed
+2026-04-18,Shopping,Personal Care,Accessories,1683,Cash,Yes,Market,Normal
+2026-04-19,Health,Fitness,Health expense,1665,Card,No,Market,Happy
+2026-04-19,Shopping,Personal Care,Accessories,742,Cash,Yes,Home,Stressed
+2026-04-19,Shopping,Personal Care,Personal item,2950,Card,Yes,Online,Normal
+2026-04-19,Other,Miscellaneous,Unexpected expense,662,Card,No,City,Stressed
+2026-04-19,Food,Dinner,College meal,203,Cash,Yes,College,Stressed
+2026-04-20,Entertainment,Events,Event,167,UPI,No,College,Normal
+2026-04-20,Food,Breakfast,Restaurant meal,370,Cash,Yes,College,Stressed
+2026-04-21,Health,Fitness,Fitness expense,593,Cash,Yes,Home,Excited
+2026-04-21,Bills,Mobile Recharge,Mobile recharge,752,UPI,No,Home,Normal
+2026-04-21,Other,Miscellaneous,Unexpected expense,967,UPI,No,Online,Stressed
+2026-04-21,Food,Dinner,Restaurant meal,116,Card,No,College,Stressed
+2026-04-21,Bills,Internet,Utility payment,625,Card,No,Home,Normal
+2026-04-22,Education,Course,Study material,684,UPI,Yes,Home,Stressed
+2026-04-22,Entertainment,Movies,Game,415,Card,No,Mall,Stressed
+2026-04-23,Education,Printing,Printing,1190,Card,No,College,Happy
+2026-04-23,Entertainment,Gaming,Movie,1051,Card,No,Mall,Happy
+2026-04-23,Bills,Electricity,Internet bill,232,Card,No,Mall,Normal
+2026-04-23,Bills,Electricity,Mobile recharge,1322,Card,No,Online,Happy
+2026-04-24,Other,Emergency,Unexpected expense,1478,Cash,Yes,Market,Excited
+2026-04-24,Shopping,Personal Care,Accessories,1120,UPI,Yes,College,Happy
+2026-04-24,Health,Medicine,Health expense,1835,Cash,No,College,Excited
+2026-04-24,Entertainment,Movies,Game,598,Cash,No,Online,Stressed
+2026-04-25,Health,Doctor,Health expense,1582,Card,Yes,Mall,Happy
+2026-04-25,Other,Gift,Gift,298,UPI,Yes,Home,Normal
+2026-04-25,Education,Stationery,Notebook,1319,Card,No,Mall,Stressed
+2026-04-25,Other,Emergency,Unexpected expense,976,Cash,Yes,Mall,Happy
+2026-04-26,Education,Books,Notebook,883,Card,No,Online,Normal
+2026-04-26,Transport,Auto,Cab ride,251,UPI,No,Mall,Excited
+2026-04-26,Other,Emergency,Unexpected expense,1602,Card,Yes,Home,Excited
+2026-04-27,Health,Fitness,Fitness expense,1341,Cash,No,Online,Normal
+2026-04-27,Bills,Electricity,Mobile recharge,1133,Card,Yes,College,Normal
+2026-04-28,Entertainment,Events,Movie,484,UPI,No,Home,Excited
+2026-04-28,Shopping,Accessories,Clothing,2737,Card,No,Market,Normal
+2026-04-28,Transport,Bus,Auto ride,247,Cash,No,College,Normal
+2026-04-29,Transport,Auto,Daily travel,447,Cash,Yes,Online,Normal
+2026-04-30,Food,Dinner,College meal,386,UPI,Yes,Market,Normal
+2026-04-30,Bills,Electricity,Internet bill,1293,Card,No,City,Stressed
+2026-05-01,Other,Emergency,Unexpected expense,86,UPI,No,Online,Happy
+2026-05-01,Education,Printing,Notebook,506,UPI,Yes,Mall,Excited
+2026-05-01,Shopping,Accessories,Clothing,2394,Card,Yes,Home,Normal
+2026-05-02,Bills,Electricity,Utility payment,176,Cash,No,Market,Happy
+2026-05-02,Food,Snacks,College meal,126,Card,No,City,Excited
+2026-05-03,Bills,Mobile Recharge,Internet bill,304,Card,No,College,Normal
+2026-05-03,Transport,Fuel,Auto ride,426,Cash,No,Home,Normal
+2026-05-03,Bills,Electricity,Mobile recharge,1021,Cash,No,Home,Normal
+2026-05-03,Entertainment,Events,Movie,160,Cash,No,Mall,Happy
+2026-05-04,Entertainment,Movies,Movie,152,UPI,Yes,Mall,Normal
+2026-05-04,Health,Fitness,Medicine,1802,UPI,Yes,Mall,Normal
+2026-05-05,Other,Miscellaneous,Gift,1706,UPI,No,Home,Excited
+2026-05-05,Food,Lunch,Restaurant meal,142,UPI,Yes,College,Excited
+2026-05-05,Entertainment,Movies,Game,780,Card,No,Mall,Excited
+2026-05-05,Food,Dinner,Snacks,369,UPI,No,City,Excited
+2026-05-05,Other,Gift,Gift,582,Cash,No,Home,Excited
+2026-05-06,Entertainment,Movies,Game,415,Card,No,Online,Happy
+2026-05-06,Other,Gift,Gift,1813,UPI,Yes,City,Normal
+2026-05-06,Entertainment,Gaming,Game,345,UPI,No,City,Excited
+2026-05-06,Food,Lunch,Coffee,217,Card,No,Home,Stressed
+2026-05-07,Shopping,Accessories,Accessories,1327,UPI,Yes,City,Excited
+2026-05-07,Bills,Electricity,Mobile recharge,265,Cash,No,City,Normal
+2026-05-08,Food,Dinner,Coffee,191,UPI,Yes,Mall,Normal
+2026-05-09,Other,Emergency,Miscellaneous expense,756,Cash,No,Online,Stressed
+2026-05-09,Transport,Bus,Daily travel,483,Cash,Yes,Online,Stressed
+2026-05-10,Entertainment,Movies,Event,331,UPI,No,Market,Happy
+2026-05-11,Other,Gift,Unexpected expense,1843,Card,No,Market,Normal
+2026-05-11,Other,Miscellaneous,Miscellaneous expense,1001,UPI,No,Market,Normal
+2026-05-11,Transport,Fuel,Cab ride,430,Card,No,Home,Excited
+2026-05-12,Health,Fitness,Fitness expense,1825,Cash,No,Market,Excited
+2026-05-12,Bills,Electricity,Mobile recharge,808,Card,No,College,Stressed
+2026-05-12,Entertainment,Gaming,Event,401,Cash,Yes,Home,Excited
+2026-05-12,Other,Miscellaneous,Miscellaneous expense,1945,Card,Yes,City,Stressed
+2026-05-13,Other,Miscellaneous,Miscellaneous expense,882,UPI,No,Home,Excited
+2026-05-13,Entertainment,Events,Event,691,Cash,Yes,Online,Stressed
+2026-05-13,Entertainment,Gaming,Game,793,UPI,No,College,Normal
+2026-05-14,Health,Medicine,Fitness expense,253,Card,Yes,Mall,Excited
+2026-05-14,Transport,Bus,Bus journey,483,Cash,No,City,Normal
+2026-05-15,Health,Medicine,Medicine,1812,Cash,No,Home,Stressed
+2026-05-15,Transport,Auto,Daily travel,229,Cash,No,Mall,Happy
+2026-05-15,Health,Doctor,Fitness expense,771,UPI,No,City,Happy
+2026-05-15,Education,Printing,Notebook,1074,Card,No,College,Excited
+2026-05-15,Other,Gift,Gift,165,UPI,Yes,College,Excited
+2026-05-16,Other,Miscellaneous,Unexpected expense,1606,Card,No,City,Stressed
+2026-05-18,Health,Doctor,Medicine,1610,Card,Yes,Online,Excited
+2026-05-18,Food,Breakfast,College meal,382,UPI,Yes,Online,Normal
+2026-05-18,Education,Printing,Course material,558,UPI,No,Online,Normal
+2026-05-19,Education,Stationery,Study material,1278,Cash,No,City,Normal
+2026-05-19,Shopping,Personal Care,Accessories,1156,Cash,Yes,Mall,Excited
+2026-05-19,Education,Printing,Printing,1071,Cash,No,College,Happy
+2026-05-19,Bills,Mobile Recharge,Internet bill,195,Card,Yes,Online,Excited
+2026-05-20,Shopping,Accessories,Personal item,1422,UPI,No,Mall,Normal
+2026-05-20,Shopping,Clothes,Clothing,516,Cash,Yes,Market,Happy
+2026-05-21,Health,Doctor,Fitness expense,1390,Card,Yes,Market,Stressed
+2026-05-21,Entertainment,Movies,Event,720,Card,Yes,Market,Normal
+2026-05-22,Food,Lunch,Restaurant meal,104,Cash,Yes,Market,Normal
+2026-05-22,Food,Dinner,Snacks,303,Cash,No,Mall,Happy
+2026-05-22,Entertainment,Movies,Game,613,UPI,Yes,City,Stressed
+2026-05-23,Food,Dinner,Coffee,92,Card,Yes,City,Excited
+2026-05-24,Other,Miscellaneous,Gift,55,UPI,Yes,College,Excited
+2026-05-25,Other,Miscellaneous,Unexpected expense,989,UPI,No,Home,Normal
+2026-05-26,Bills,Mobile Recharge,Mobile recharge,608,Cash,No,Market,Happy
+2026-05-26,Health,Medicine,Health expense,649,Cash,No,Mall,Normal
+2026-05-26,Transport,Cab,Cab ride,76,Cash,No,Market,Stressed
+2026-05-26,Transport,Bus,Bus journey,405,UPI,No,Mall,Excited
+2026-05-27,Health,Doctor,Medicine,460,UPI,No,City,Stressed
+2026-05-27,Education,Printing,Study material,1191,UPI,Yes,Online,Normal
+2026-05-28,Transport,Cab,Auto ride,78,Cash,Yes,Online,Happy
+2026-05-28,Health,Fitness,Health expense,284,Cash,Yes,Mall,Happy
+2026-05-28,Entertainment,Events,Movie,409,Card,Yes,College,Stressed
+2026-05-29,Shopping,Personal Care,Clothing,1065,Card,Yes,Market,Normal
+2026-05-30,Entertainment,Events,Game,1029,UPI,Yes,Mall,Normal
+2026-05-31,Entertainment,Gaming,Game,904,Card,No,Mall,Excited
+2026-05-31,Entertainment,Movies,Movie,588,Cash,No,College,Happy
+2026-05-31,Transport,Auto,Auto ride,121,UPI,Yes,City,Happy
+2026-05-31,Entertainment,Movies,Event,285,Cash,Yes,City,Happy
+2026-05-31,Entertainment,Events,Event,196,Cash,No,Online,Stressed
+2026-05-31,Bills,Mobile Recharge,Utility payment,852,Card,No,College,Excited
+2026-06-01,Shopping,Accessories,Personal item,791,Cash,Yes,Market,Excited
+2026-06-01,Shopping,Clothes,Clothing,2632,UPI,No,Market,Happy
+2026-06-01,Transport,Bus,Cab ride,437,UPI,Yes,Home,Excited
+2026-06-01,Health,Medicine,Fitness expense,1468,UPI,No,College,Happy
+2026-06-02,Food,Snacks,Coffee,159,Card,Yes,College,Normal
+2026-06-02,Other,Emergency,Gift,982,Cash,Yes,City,Excited
+2026-06-02,Shopping,Accessories,Clothing,2461,Cash,No,Online,Excited
+2026-06-02,Food,Lunch,Restaurant meal,66,UPI,No,Mall,Excited
+2026-06-04,Food,Snacks,Snacks,323,UPI,Yes,Mall,Happy
+2026-06-04,Shopping,Personal Care,Personal item,2230,Card,Yes,Online,Happy
+2026-06-04,Food,Breakfast,Coffee,181,UPI,Yes,Mall,Normal
+2026-06-05,Food,Snacks,College meal,306,Card,Yes,Mall,Excited
+2026-06-06,Shopping,Personal Care,Personal item,1486,UPI,No,Online,Normal
+2026-06-06,Education,Course,Study material,505,Cash,Yes,City,Stressed
+2026-06-07,Other,Gift,Gift,1715,UPI,Yes,Mall,Stressed
+2026-06-07,Shopping,Accessories,Personal item,1878,Cash,Yes,College,Excited
+2026-06-07,Bills,Mobile Recharge,Internet bill,340,UPI,Yes,City,Stressed
+2026-06-07,Transport,Fuel,Cab ride,281,Cash,Yes,Online,Normal
+2026-06-08,Health,Fitness,Medicine,1870,Card,Yes,Online,Normal
+2026-06-09,Shopping,Clothes,Clothing,757,Card,Yes,Home,Happy
+2026-06-09,Other,Emergency,Miscellaneous expense,1044,Card,No,Online,Stressed
+2026-06-10,Other,Gift,Unexpected expense,635,UPI,No,Mall,Stressed
+2026-06-10,Shopping,Clothes,Accessories,575,Card,Yes,City,Happy
+2026-06-10,Health,Doctor,Health expense,1027,UPI,Yes,Online,Stressed
+2026-06-10,Food,Dinner,College meal,198,Cash,No,College,Happy
+2026-06-11,Transport,Cab,Auto ride,348,Card,No,City,Stressed
+2026-06-11,Other,Gift,Gift,1307,Card,Yes,City,Stressed
+2026-06-12,Education,Printing,Course material,1302,Card,Yes,City,Stressed
+2026-06-13,Bills,Internet,Internet bill,884,Card,No,Market,Excited
+2026-06-13,Bills,Internet,Utility payment,221,UPI,Yes,Market,Happy
+2026-06-14,Health,Doctor,Medicine,1584,Card,Yes,Market,Normal
+2026-06-15,Food,Lunch,Coffee,237,UPI,Yes,Online,Happy
+2026-06-15,Shopping,Accessories,Clothing,1438,UPI,Yes,Mall,Happy
+2026-06-16,Transport,Bus,Daily travel,227,Cash,No,Market,Excited
+2026-06-16,Shopping,Clothes,Clothing,1809,Card,No,Home,Happy
+2026-06-17,Health,Fitness,Medicine,1456,Card,No,Market,Normal
+2026-06-17,Entertainment,Gaming,Game,301,UPI,Yes,Mall,Excited
+2026-06-17,Entertainment,Movies,Game,759,Cash,No,Online,Normal
+2026-06-18,Other,Emergency,Unexpected expense,922,UPI,No,Mall,Excited
+2026-06-18,Transport,Auto,Auto ride,375,UPI,No,Online,Normal
+2026-06-18,Other,Miscellaneous,Gift,235,UPI,No,City,Happy
+2026-06-19,Other,Gift,Unexpected expense,797,Card,Yes,College,Stressed
+2026-06-19,Food,Snacks,College meal,155,UPI,No,College,Normal
+2026-06-19,Health,Fitness,Health expense,1765,UPI,Yes,City,Excited
+2026-06-19,Health,Doctor,Fitness expense,506,UPI,Yes,College,Stressed
+2026-06-20,Education,Stationery,Course material,1370,UPI,Yes,Market,Stressed
+2026-06-20,Bills,Electricity,Internet bill,916,UPI,No,Market,Happy
+2026-06-20,Food,Breakfast,Coffee,180,UPI,Yes,Market,Normal
+2026-06-21,Shopping,Accessories,Clothing,1295,Cash,Yes,Home,Happy
+2026-06-21,Education,Books,Course material,964,UPI,No,Home,Normal
+2026-06-21,Transport,Bus,Cab ride,304,Cash,No,Mall,Excited
+2026-06-22,Transport,Auto,Auto ride,230,Card,No,Mall,Excited
+2026-06-22,Entertainment,Events,Game,282,UPI,No,Home,Excited
+2026-06-23,Education,Printing,Course material,230,Cash,Yes,Home,Excited
+2026-06-23,Health,Medicine,Medicine,370,Card,No,Market,Stressed
+2026-06-23,Food,Dinner,Coffee,291,UPI,No,Market,Excited
+2026-06-23,Health,Doctor,Health expense,847,UPI,Yes,Market,Normal
+2026-06-23,Bills,Internet,Internet bill,963,Cash,Yes,Online,Happy
+2026-06-24,Shopping,Clothes,Accessories,2469,Card,No,City,Stressed
+2026-06-24,Entertainment,Movies,Event,556,Card,No,Online,Normal
+2026-06-24,Shopping,Clothes,Personal item,2146,Cash,No,College,Stressed
+2026-06-24,Health,Doctor,Fitness expense,1571,Cash,Yes,Market,Happy
+2026-06-25,Entertainment,Movies,Movie,489,Card,Yes,City,Excited
+2026-06-25,Health,Fitness,Fitness expense,378,Cash,No,Market,Normal
+2026-06-26,Food,Lunch,Restaurant meal,43,UPI,Yes,Home,Happy
+2026-06-27,Bills,Mobile Recharge,Mobile recharge,1030,Cash,No,City,Stressed
+2026-06-28,Bills,Internet,Utility payment,1147,UPI,No,Market,Normal
+2026-06-29,Food,Snacks,College meal,242,Card,No,Home,Excited
+2026-06-29,Entertainment,Gaming,Game,523,Card,No,Mall,Excited
+2026-06-29,Entertainment,Movies,Movie,148,Card,Yes,Online,Stressed
+2026-06-30,Health,Fitness,Fitness expense,416,UPI,Yes,Home,Excited
+2026-06-30,Entertainment,Gaming,Game,551,Cash,Yes,Mall,Excited
+2026-07-01,Food,Lunch,Coffee,289,UPI,No,Online,Happy
+2026-07-01,Transport,Cab,Bus journey,395,Card,Yes,Market,Stressed
+2026-07-02,Transport,Bus,Bus journey,356,Card,No,Home,Happy
+2026-07-02,Food,Snacks,College meal,190,Card,No,Home,Happy
+2026-07-03,Education,Books,Notebook,1294,Card,No,College,Normal
+2026-07-03,Health,Doctor,Medicine,920,UPI,Yes,Mall,Stressed
+2026-07-04,Entertainment,Movies,Game,372,Card,Yes,College,Happy
+2026-07-04,Education,Course,Study material,1225,Card,Yes,Home,Happy
+2026-07-04,Health,Doctor,Fitness expense,1000,Cash,No,Home,Excited
+2026-07-04,Health,Fitness,Fitness expense,1588,UPI,No,City,Happy
+2026-07-04,Entertainment,Movies,Event,284,Card,No,Online,Happy
+2026-07-05,Health,Medicine,Medicine,1187,Cash,Yes,Home,Normal
+2026-07-05,Education,Books,Course material,1422,UPI,No,Mall,Excited
+2026-07-05,Education,Books,Printing,1331,Cash,Yes,Online,Happy
+2026-07-05,Health,Doctor,Health expense,869,UPI,Yes,City,Stressed
+2026-07-05,Bills,Mobile Recharge,Mobile recharge,920,Cash,No,Mall,Excited
+2026-07-05,Education,Printing,Study material,236,UPI,Yes,Online,Happy
+2026-07-05,Food,Snacks,Coffee,48,UPI,No,College,Happy
+2026-07-06,Health,Doctor,Health expense,422,Cash,No,City,Stressed
+2026-07-06,Entertainment,Events,Event,703,UPI,Yes,City,Happy
+2026-07-07,Transport,Cab,Cab ride,379,UPI,Yes,City,Happy
+2026-07-07,Bills,Mobile Recharge,Internet bill,191,Cash,No,Online,Stressed
+2026-07-07,Shopping,Accessories,Personal item,2881,Card,No,Mall,Excited
+2026-07-07,Entertainment,Gaming,Event,847,UPI,No,Mall,Normal
+2026-07-08,Food,Lunch,Restaurant meal,153,Card,Yes,City,Normal
+2026-07-08,Food,Breakfast,Restaurant meal,231,UPI,No,Market,Normal
+2026-07-08,Entertainment,Movies,Movie,193,Cash,No,Online,Stressed
+2026-07-09,Food,Lunch,Restaurant meal,182,Card,Yes,Market,Happy
+2026-07-09,Health,Doctor,Fitness expense,1324,UPI,No,College,Stressed
+2026-07-09,Other,Gift,Unexpected expense,842,Cash,No,City,Happy
+2026-07-10,Transport,Cab,Cab ride,393,UPI,Yes,Home,Happy
+2026-07-10,Other,Gift,Gift,1244,Cash,Yes,College,Stressed
+2026-07-11,Other,Miscellaneous,Unexpected expense,592,UPI,No,Home,Stressed
+2026-07-11,Transport,Cab,Cab ride,255,Card,Yes,City,Normal
+2026-07-11,Entertainment,Events,Event,1126,Cash,No,City,Excited
+2026-07-11,Bills,Electricity,Internet bill,611,UPI,Yes,City,Normal
+2026-07-12,Bills,Internet,Utility payment,1024,UPI,Yes,Home,Happy
+2026-07-12,Transport,Fuel,Auto ride,416,Cash,No,College,Excited
+2026-07-12,Health,Fitness,Medicine,740,Cash,No,City,Stressed
+2026-07-13,Entertainment,Events,Game,1031,Cash,No,Market,Happy
+2026-07-14,Education,Books,Printing,592,Cash,No,City,Happy
+2026-07-14,Food,Lunch,Snacks,365,Card,Yes,Mall,Happy
+2026-07-15,Food,Lunch,Restaurant meal,142,Cash,No,Market,Excited
+2026-07-16,Other,Miscellaneous,Gift,219,Card,Yes,Home,Stressed
+2026-07-16,Education,Printing,Notebook,572,UPI,No,City,Happy
+2026-07-16,Bills,Electricity,Internet bill,105,Cash,No,Market,Excited
+2026-07-17,Other,Gift,Gift,1507,Cash,Yes,College,Normal
+2026-07-17,Bills,Internet,Internet bill,1299,Cash,No,College,Excited
+2026-07-17,Shopping,Personal Care,Personal item,1220,Card,Yes,Online,Stressed
+2026-07-17,Health,Fitness,Fitness expense,140,Card,No,Online,Happy
+2026-07-17,Transport,Bus,Auto ride,78,UPI,No,Home,Normal
+2026-07-18,Bills,Internet,Utility payment,1029,Cash,No,Mall,Normal
+2026-07-18,Transport,Auto,Bus journey,485,Cash,Yes,College,Happy
+2026-07-18,Health,Doctor,Health expense,616,UPI,No,Mall,Excited
+2026-07-18,Food,Breakfast,College meal,235,UPI,Yes,City,Happy
+2026-07-19,Transport,Fuel,Cab ride,57,UPI,No,Market,Normal
+2026-07-20,Bills,Electricity,Internet bill,152,UPI,Yes,City,Happy
+2026-07-20,Education,Printing,Study material,1316,Cash,Yes,City,Happy
+2026-07-21,Education,Course,Printing,1002,Cash,No,Mall,Normal
+2026-07-21,Education,Course,Printing,785,UPI,Yes,Online,Happy
+2026-07-21,Transport,Fuel,Daily travel,178,Card,Yes,College,Happy
+2026-07-22,Shopping,Accessories,Clothing,2877,UPI,No,College,Excited
+2026-07-22,Other,Emergency,Unexpected expense,1298,UPI,No,Mall,Stressed
+2026-07-22,Health,Medicine,Health expense,1109,Cash,No,Market,Excited
+2026-07-23,Education,Course,Study material,144,Cash,Yes,Mall,Stressed
+2026-07-23,Transport,Bus,Daily travel,67,UPI,Yes,Online,Excited
+2026-07-24,Shopping,Personal Care,Clothing,1467,Cash,Yes,Mall,Excited
+2026-07-24,Other,Emergency,Miscellaneous expense,1144,Card,No,Market,Happy
+2026-07-24,Entertainment,Gaming,Game,123,Cash,No,City,Normal
+2026-07-25,Entertainment,Movies,Event,667,Card,No,City,Normal
+2026-07-25,Bills,Mobile Recharge,Utility payment,490,UPI,No,Online,Happy
+2026-07-25,Shopping,Accessories,Personal item,2148,Card,Yes,College,Excited
+2026-07-25,Transport,Bus,Bus journey,21,Cash,No,City,Stressed
+2026-07-26,Food,Snacks,Snacks,51,Cash,No,College,Normal
+2026-07-26,Bills,Electricity,Utility payment,1476,Cash,No,City,Stressed
+2026-07-26,Entertainment,Gaming,Event,1096,UPI,Yes,Mall,Normal
+2026-07-26,Bills,Internet,Utility payment,1224,Cash,Yes,Home,Happy
+2026-07-26,Entertainment,Movies,Game,1089,UPI,Yes,Online,Stressed
+2026-07-26,Education,Printing,Notebook,1277,Card,Yes,College,Stressed
+2026-07-27,Education,Course,Study material,1426,UPI,No,College,Normal
+2026-07-27,Bills,Electricity,Internet bill,1484,Card,No,Market,Excited
+2026-07-28,Bills,Internet,Utility payment,1133,Cash,No,Home,Excited
+2026-07-28,Entertainment,Gaming,Event,1180,Cash,Yes,Home,Normal
+2026-07-29,Entertainment,Gaming,Movie,334,UPI,No,College,Happy
+2026-07-29,Education,Books,Printing,1262,Card,Yes,College,Excited
+2026-07-30,Bills,Mobile Recharge,Internet bill,740,Cash,Yes,Market,Normal
+2026-07-30,Transport,Bus,Daily travel,27,Cash,Yes,College,Happy
+2026-07-30,Other,Miscellaneous,Miscellaneous expense,427,UPI,No,Online,Happy
+2026-07-31,Other,Gift,Unexpected expense,1879,Card,Yes,Mall,Stressed
+2026-08-01,Other,Miscellaneous,Unexpected expense,1078,Cash,No,Mall,Normal
+2026-08-01,Transport,Auto,Cab ride,65,Card,Yes,College,Stressed
+2026-08-01,Bills,Mobile Recharge,Internet bill,753,Cash,No,Market,Normal
+2026-08-02,Shopping,Accessories,Clothing,874,Cash,Yes,Online,Stressed
+2026-08-02,Entertainment,Events,Event,1174,Card,No,College,Normal
+2026-08-02,Transport,Cab,Cab ride,491,UPI,Yes,City,Normal
+2026-08-02,Transport,Cab,Auto ride,347,Cash,No,Mall,Stressed
+2026-08-03,Education,Stationery,Printing,1200,Card,No,Online,Excited
+2026-08-03,Bills,Mobile Recharge,Utility payment,425,UPI,No,City,Excited
+2026-08-03,Food,Snacks,Snacks,382,Card,No,City,Normal
+2026-08-04,Health,Doctor,Medicine,1513,Cash,Yes,Online,Excited
+2026-08-04,Shopping,Personal Care,Accessories,2845,Card,No,Online,Happy
+2026-08-04,Entertainment,Movies,Movie,744,Cash,Yes,Mall,Happy
+2026-08-04,Transport,Auto,Cab ride,344,Cash,No,Online,Excited
+2026-08-05,Health,Medicine,Medicine,1443,Card,Yes,College,Excited
+2026-08-05,Other,Miscellaneous,Unexpected expense,66,UPI,No,Home,Stressed
+2026-08-05,Bills,Mobile Recharge,Internet bill,534,Cash,No,Mall,Stressed
+2026-08-06,Food,Snacks,Coffee,128,Cash,Yes,Home,Stressed
+2026-08-06,Health,Fitness,Health expense,224,UPI,No,Online,Normal
+2026-08-06,Entertainment,Events,Event,659,Cash,No,Online,Normal
+2026-08-06,Health,Fitness,Medicine,636,Cash,No,Home,Stressed
+2026-08-06,Food,Lunch,Restaurant meal,189,Cash,Yes,Market,Stressed
+2026-08-07,Education,Books,Printing,404,UPI,Yes,Home,Normal
+2026-08-07,Entertainment,Movies,Event,753,Card,No,Home,Stressed
+2026-08-08,Entertainment,Movies,Event,470,Cash,Yes,Online,Normal
+2026-08-08,Education,Printing,Study material,1262,Card,Yes,Online,Normal
+2026-08-08,Transport,Cab,Bus journey,98,Cash,Yes,Market,Happy
+2026-08-09,Shopping,Accessories,Accessories,1802,Cash,Yes,Mall,Happy
+2026-08-09,Other,Emergency,Gift,1399,UPI,No,Market,Stressed
+2026-08-09,Bills,Mobile Recharge,Internet bill,732,UPI,Yes,Mall,Excited
+2026-08-10,Food,Snacks,Coffee,67,UPI,No,Market,Excited
+2026-08-10,Transport,Auto,Cab ride,490,UPI,No,City,Normal
+2026-08-11,Other,Gift,Gift,1474,Cash,Yes,Online,Normal
+2026-08-11,Shopping,Personal Care,Accessories,2912,Cash,No,Mall,Normal
+2026-08-11,Transport,Fuel,Bus journey,266,Cash,No,Home,Happy
+2026-08-12,Health,Doctor,Health expense,708,Card,No,Mall,Happy
+2026-08-12,Health,Fitness,Health expense,1038,Card,Yes,Market,Happy
+2026-08-13,Transport,Bus,Cab ride,249,Cash,Yes,Online,Normal
+2026-08-13,Other,Emergency,Unexpected expense,790,UPI,Yes,College,Normal
+2026-08-14,Food,Dinner,Snacks,107,Cash,No,Mall,Normal
+2026-08-14,Food,Lunch,Restaurant meal,394,Card,No,Mall,Happy
+2026-08-14,Bills,Electricity,Internet bill,1351,Cash,Yes,Mall,Stressed
+2026-08-14,Entertainment,Events,Game,135,Card,No,Home,Happy
+2026-08-15,Bills,Internet,Internet bill,836,Card,No,Online,Happy
+2026-08-15,Entertainment,Events,Event,444,Cash,No,Mall,Stressed
+2026-08-16,Other,Emergency,Gift,1025,Cash,Yes,Online,Happy
+2026-08-16,Entertainment,Events,Event,656,UPI,Yes,Market,Normal
+2026-08-16,Education,Course,Course material,453,Cash,Yes,Mall,Excited
+2026-08-16,Transport,Fuel,Daily travel,302,Cash,No,Market,Normal
+2026-08-16,Other,Gift,Miscellaneous expense,425,Cash,No,Home,Happy
+2026-08-17,Health,Fitness,Medicine,1233,UPI,No,Market,Excited
+2026-08-17,Food,Dinner,Restaurant meal,372,UPI,Yes,College,Normal
+2026-08-17,Transport,Auto,Bus journey,138,Cash,Yes,City,Normal
+2026-08-19,Education,Course,Printing,483,Card,Yes,City,Stressed
+2026-08-19,Transport,Bus,Auto ride,416,Card,No,Market,Happy
+2026-08-19,Food,Snacks,College meal,201,Cash,No,College,Excited
+2026-08-19,Bills,Electricity,Mobile recharge,193,UPI,No,Home,Excited
+2026-08-20,Education,Course,Printing,996,UPI,No,City,Normal
+2026-08-20,Food,Breakfast,Snacks,143,Card,No,Home,Stressed
+2026-08-20,Food,Breakfast,Snacks,368,Cash,Yes,Mall,Excited
+2026-08-21,Food,Breakfast,Snacks,300,Card,Yes,City,Excited
+2026-08-21,Other,Gift,Miscellaneous expense,1978,Card,No,Market,Stressed
+2026-08-22,Shopping,Personal Care,Personal item,2432,Cash,Yes,Online,Stressed
+2026-08-22,Entertainment,Events,Event,977,Card,No,Mall,Normal
+2026-08-23,Entertainment,Movies,Movie,342,Card,No,Market,Normal
+2026-08-23,Entertainment,Gaming,Movie,854,Cash,Yes,Online,Stressed
+2026-08-23,Health,Doctor,Health expense,316,UPI,Yes,Mall,Normal
+2026-08-23,Food,Snacks,Snacks,157,Card,No,Home,Normal
+2026-08-23,Other,Miscellaneous,Unexpected expense,1611,UPI,Yes,College,Excited
+2026-08-24,Shopping,Personal Care,Personal item,362,Card,Yes,Online,Stressed
+2026-08-24,Transport,Bus,Bus journey,100,Card,Yes,City,Happy
+2026-08-25,Health,Doctor,Health expense,1683,UPI,No,College,Stressed
+2026-08-25,Education,Stationery,Course material,1115,Cash,Yes,City,Normal
+2026-08-25,Health,Fitness,Fitness expense,955,Cash,Yes,Online,Happy
+2026-08-25,Other,Gift,Miscellaneous expense,1703,Cash,Yes,College,Happy
+2026-08-25,Bills,Mobile Recharge,Utility payment,1478,UPI,Yes,Home,Happy
+2026-08-26,Health,Doctor,Medicine,1096,Card,Yes,Market,Normal
+2026-08-26,Entertainment,Events,Game,868,Cash,Yes,City,Happy
+2026-08-26,Entertainment,Events,Game,144,Card,No,Mall,Happy
+2026-08-27,Transport,Bus,Cab ride,196,Card,Yes,Market,Happy
+2026-08-28,Shopping,Clothes,Clothing,1215,Card,Yes,Mall,Happy
+2026-08-28,Shopping,Accessories,Personal item,1110,Card,No,City,Stressed
+2026-08-28,Other,Gift,Unexpected expense,1338,Card,No,Home,Normal
+2026-08-28,Other,Gift,Unexpected expense,962,UPI,No,Home,Excited
+2026-08-28,Other,Emergency,Gift,1466,Card,Yes,City,Normal
+2026-08-28,Education,Course,Course material,1393,Card,No,Home,Happy
+2026-08-28,Transport,Bus,Auto ride,307,Card,No,Mall,Happy
+2026-08-28,Health,Fitness,Health expense,286,Cash,No,Online,Stressed
+2026-08-29,Bills,Internet,Mobile recharge,629,Card,Yes,Mall,Happy
+2026-08-29,Shopping,Personal Care,Clothing,1404,Cash,Yes,City,Happy
+2026-08-29,Education,Printing,Study material,662,UPI,Yes,Market,Excited
+2026-08-29,Bills,Mobile Recharge,Mobile recharge,643,UPI,Yes,City,Excited
+2026-08-29,Shopping,Clothes,Accessories,804,Card,Yes,Mall,Normal
+2026-08-29,Transport,Cab,Auto ride,185,UPI,Yes,City,Excited
+2026-08-29,Health,Fitness,Medicine,910,Cash,No,Home,Stressed
+2026-08-30,Food,Dinner,Restaurant meal,328,UPI,No,Market,Stressed
+2026-08-30,Other,Gift,Unexpected expense,1894,Card,Yes,Home,Happy
+2026-08-30,Education,Stationery,Course material,1204,UPI,Yes,College,Happy
+2026-08-31,Food,Breakfast,College meal,64,Card,Yes,Online,Excited
+2026-08-31,Entertainment,Events,Movie,1158,UPI,Yes,Home,Excited
+2026-09-01,Bills,Internet,Mobile recharge,329,Cash,No,Home,Happy
+2026-09-02,Health,Fitness,Medicine,192,UPI,Yes,City,Stressed
+2026-09-02,Shopping,Personal Care,Accessories,1033,Card,No,Market,Excited
+2026-09-02,Education,Course,Course material,260,UPI,No,City,Stressed
+2026-09-03,Entertainment,Movies,Movie,659,Card,No,Mall,Stressed
+2026-09-04,Health,Medicine,Fitness expense,385,UPI,Yes,College,Stressed
+2026-09-04,Education,Printing,Course material,486,Card,Yes,Online,Excited
+2026-09-04,Transport,Auto,Bus journey,155,Card,Yes,Home,Normal
+2026-09-05,Food,Dinner,Coffee,369,UPI,Yes,Online,Excited
+2026-09-06,Entertainment,Events,Event,380,Card,Yes,City,Happy
+2026-09-07,Entertainment,Events,Game,371,Card,Yes,Market,Stressed
+2026-09-08,Other,Gift,Gift,596,Card,Yes,Mall,Excited
+2026-09-08,Bills,Mobile Recharge,Internet bill,239,Cash,No,City,Stressed
+2026-09-09,Shopping,Clothes,Personal item,818,UPI,Yes,Market,Excited
+2026-09-09,Education,Stationery,Study material,987,UPI,No,Home,Happy
+2026-09-10,Transport,Bus,Bus journey,210,Cash,No,Home,Excited
+2026-09-11,Entertainment,Gaming,Game,119,Cash,No,City,Normal
+2026-09-11,Entertainment,Movies,Event,1004,Card,No,Market,Happy
+2026-09-11,Transport,Bus,Auto ride,145,UPI,Yes,City,Happy
+2026-09-11,Other,Emergency,Miscellaneous expense,406,Card,No,Home,Normal
+2026-09-11,Entertainment,Gaming,Event,552,UPI,Yes,Online,Normal
+2026-09-11,Transport,Fuel,Bus journey,189,Card,Yes,Home,Stressed
+2026-09-12,Entertainment,Gaming,Movie,931,Cash,No,College,Happy
+2026-09-12,Entertainment,Events,Movie,953,Card,Yes,Online,Stressed
+2026-09-12,Other,Miscellaneous,Gift,1550,Cash,Yes,Home,Excited
+2026-09-13,Entertainment,Events,Movie,128,Card,No,Mall,Normal
+2026-09-13,Transport,Fuel,Auto ride,352,Cash,Yes,Home,Happy
+2026-09-13,Shopping,Accessories,Accessories,395,Card,No,Mall,Happy
+2026-09-13,Education,Books,Notebook,566,Card,No,City,Stressed
+2026-09-14,Entertainment,Movies,Game,291,Card,No,Mall,Happy
+2026-09-16,Education,Printing,Study material,1136,Card,Yes,Market,Excited
+2026-09-16,Health,Fitness,Fitness expense,729,UPI,Yes,Market,Normal
+2026-09-16,Health,Doctor,Health expense,941,Cash,Yes,City,Happy
+2026-09-17,Bills,Electricity,Mobile recharge,1323,Cash,Yes,Home,Normal
+2026-09-17,Education,Course,Course material,946,Card,No,City,Happy
+2026-09-17,Transport,Auto,Auto ride,79,UPI,Yes,Mall,Stressed
+2026-09-18,Health,Doctor,Health expense,1527,Cash,Yes,Home,Excited
+2026-09-18,Health,Fitness,Fitness expense,1948,UPI,No,Online,Happy
+2026-09-19,Entertainment,Gaming,Game,248,UPI,No,Market,Happy
+2026-09-19,Entertainment,Events,Event,246,Card,Yes,Market,Normal
+2026-09-20,Health,Fitness,Health expense,1786,UPI,Yes,Online,Stressed
+2026-09-20,Entertainment,Events,Movie,458,Cash,No,Mall,Normal
+2026-09-21,Other,Miscellaneous,Miscellaneous expense,959,UPI,Yes,Market,Stressed
+2026-09-21,Bills,Internet,Utility payment,386,Card,Yes,Market,Stressed
+2026-09-21,Transport,Fuel,Daily travel,35,UPI,Yes,Home,Happy
+2026-09-21,Entertainment,Gaming,Movie,163,Cash,No,Market,Normal
+2026-09-21,Bills,Internet,Utility payment,337,UPI,Yes,College,Normal
+2026-09-22,Food,Snacks,Restaurant meal,264,Cash,Yes,Online,Excited
+2026-09-22,Health,Fitness,Medicine,888,Cash,No,Market,Stressed
+2026-09-23,Health,Medicine,Medicine,650,Cash,No,Online,Normal
+2026-09-23,Transport,Bus,Auto ride,292,Cash,No,College,Stressed
+2026-09-24,Food,Snacks,Snacks,375,Card,Yes,City,Happy
+2026-09-24,Other,Miscellaneous,Miscellaneous expense,764,Card,No,Mall,Happy
+2026-09-24,Food,Dinner,Restaurant meal,305,Card,Yes,City,Excited
+2026-09-24,Shopping,Accessories,Personal item,2704,Cash,Yes,City,Normal
+2026-09-24,Other,Miscellaneous,Unexpected expense,1864,UPI,Yes,Home,Happy
+2026-09-25,Education,Printing,Study material,891,Cash,Yes,Online,Stressed
+2026-09-25,Other,Gift,Gift,327,UPI,No,Home,Excited
+2026-09-25,Other,Miscellaneous,Unexpected expense,596,UPI,No,College,Excited
+2026-09-25,Transport,Cab,Auto ride,422,UPI,Yes,College,Excited
+2026-09-26,Health,Doctor,Medicine,714,Cash,Yes,Market,Excited
+2026-09-26,Other,Gift,Gift,1340,Card,Yes,City,Normal
+2026-09-27,Transport,Fuel,Daily travel,459,Cash,Yes,Home,Excited
+2026-09-27,Bills,Electricity,Utility payment,1233,Card,Yes,Home,Normal
+2026-09-27,Health,Fitness,Medicine,472,Card,No,Market,Normal
+2026-09-27,Education,Course,Notebook,298,UPI,Yes,Home,Excited
+2026-09-27,Education,Stationery,Notebook,709,UPI,No,Online,Normal
+2026-09-27,Health,Doctor,Fitness expense,1205,Cash,No,College,Happy
+2026-09-28,Food,Snacks,Restaurant meal,350,Cash,Yes,College,Happy
+2026-09-28,Health,Doctor,Fitness expense,1722,Card,Yes,Online,Happy
+2026-09-28,Transport,Bus,Bus journey,415,Cash,Yes,Home,Happy
+2026-09-28,Transport,Bus,Bus journey,264,UPI,Yes,Market,Normal

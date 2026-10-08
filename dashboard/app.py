@@ -37,10 +37,26 @@ h3 {
 }
 
 [data-testid="stMetric"] {
-    background-color: rgba(128, 128, 128, 0.08);
-    padding: 15px;
-    border-radius: 12px;
-    border: 1px solid rgba(128, 128, 128, 0.15);
+    background: linear-gradient(
+        135deg,
+        rgba(255, 255, 255, 0.08),
+        rgba(255, 255, 255, 0.03)
+    );
+    padding: 20px;
+    border-radius: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+    min-height: 110px;
+}
+
+[data-testid="stMetricLabel"] {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+[data-testid="stMetricValue"] {
+    font-size: 28px;
+    font-weight: 700;
 }
 
 [data-testid="stSidebar"] {
@@ -67,9 +83,19 @@ df["Date"] = pd.to_datetime(df["Date"])
 # Title
 # -----------------------------
 
-st.title("💰 Personal Expense Analytics Dashboard")
-st.markdown("### Interactive analysis of personal spending patterns")
-
+st.markdown(
+    """
+    <div style="padding: 10px 0 25px 0;">
+        <h1 style="margin-bottom: 5px;">
+            💰 Personal Expense Analytics Dashboard
+        </h1>
+        <p style="font-size: 18px; color: #9aa0a6;">
+            Track, analyze, and understand your personal spending patterns
+        </p>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 # -----------------------------
 # Sidebar Filters
 # -----------------------------
@@ -148,6 +174,91 @@ remaining_budget = monthly_budget - current_month_expense
 budget_percentage = (
     current_month_expense / monthly_budget
 ) * 100
+# -----------------------------
+# Budget Status
+# -----------------------------
+
+st.subheader("💰 Monthly Budget Status")
+
+st.progress(
+    min(budget_percentage / 100, 1.0)
+)
+
+if budget_percentage < 75:
+    st.success(
+        f"✅ You have used {budget_percentage:.1f}% of your monthly budget."
+    )
+
+elif budget_percentage < 100:
+    st.warning(
+        f"⚠️ You have used {budget_percentage:.1f}% of your monthly budget."
+    )
+
+else:
+    st.error(
+        f"🚨 You have exceeded your monthly budget by "
+        f"₹{abs(remaining_budget):,.0f}."
+    )
+    # -----------------------------
+# Budget Summary
+# -----------------------------
+
+st.subheader("📊 Budget Summary")
+
+budget_col1, budget_col2, budget_col3 = st.columns(3)
+
+budget_col1.metric(
+    "💰 Monthly Budget",
+    f"₹{monthly_budget:,.0f}"
+)
+
+budget_col2.metric(
+    "💸 Current Month Spending",
+    f"₹{current_month_expense:,.0f}"
+)
+
+budget_col3.metric(
+    "🟢 Remaining Budget",
+    f"₹{remaining_budget:,.0f}"
+)
+# -----------------------------
+# Top Spending Categories
+# -----------------------------
+
+st.subheader("🏆 Top Spending Categories")
+
+top_categories = (
+    filtered_df.groupby("Category")["Amount"]
+    .sum()
+    .sort_values(ascending=False)
+    .head(5)
+    .reset_index()
+)
+
+fig_top_categories = px.bar(
+    top_categories,
+    x="Amount",
+    y="Category",
+    orientation="h",
+    title="Top 5 Spending Categories",
+    text_auto=True
+)
+
+fig_top_categories.update_traces(
+    texttemplate="₹%{x:,.0f}",
+    textposition="outside"
+)
+
+fig_top_categories.update_layout(
+    yaxis=dict(categoryorder="total ascending"),
+    xaxis_title="Total Expense (₹)",
+    yaxis_title="Category"
+)
+
+st.plotly_chart(
+    fig_top_categories,
+    use_container_width=True
+)
 # -----------------------------
 # KPI Cards
 # -----------------------------
@@ -389,8 +500,20 @@ fig_monthly = px.line(
     x="Month",
     y="Amount",
     markers=True,
-    title="Monthly Spending Trend",
+    title="📈 Monthly Spending Trend",
     text="Amount"
+)
+
+fig_monthly.update_traces(
+    line_width=3,
+    texttemplate="₹%{text:,.0f}",
+    textposition="top center"
+)
+
+fig_monthly.update_layout(
+    xaxis_title="Month",
+    yaxis_title="Expense (₹)",
+    hovermode="x unified"
 )
 
 fig_monthly.update_traces(
@@ -409,14 +532,30 @@ st.plotly_chart(
 
 st.subheader("📊 Monthly Spending Comparison")
 
+# -----------------------------
+# Monthly Comparison Table
+# -----------------------------
+
 comparison_data = monthly_data.copy()
 
-comparison_data["Amount"] = comparison_data["Amount"].round(2)
+# Calculate month-to-month change
+comparison_data["Change"] = (
+    comparison_data["Amount"].pct_change() * 100
+)
 
+comparison_data["Amount"] = comparison_data["Amount"].round(2)
 comparison_data["Change"] = comparison_data["Change"].round(2)
 
 comparison_data["Change"] = comparison_data["Change"].apply(
     lambda x: f"{x:+.2f}%" if pd.notna(x) else "-"
+)
+
+comparison_data = comparison_data.rename(
+    columns={
+        "Month": "Month",
+        "Amount": "Total Expense (₹)",
+        "Change": "Month-to-Month Change"
+    }
 )
 
 st.dataframe(
